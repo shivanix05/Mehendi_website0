@@ -1,0 +1,168 @@
+
+ header{
+   color:goldenrod;
+   font-style:italic;
+   text-align: center;
+   font-size:50px;
+   margin-top: 38px;
+
+ }
+ 
+ 
+ 
+ Body{
+    background: #530202fb;
+ }
+ .b{
+    width: 40px;
+    margin-left:50%;
+    margin-top: 24px;
+    
+ }
+ .a{
+    width: 1100px;
+    margin-left:10%;
+    border: 8px solid goldenrod;
+
+ }
+ div.aa{
+margin-bottom: -37px;
+
+
+ }
+ h2{
+    color:aliceblue; margin-left: 15px;
+ }
+
+    
+ table{
+   
+    color:darkgoldenrod;
+ 
+   
+
+ }
+ 
+ 
+ button{
+   background:darkorange;
+   font-style: inherit;
+   margin-left: 890px;
+   
+   width: 80px;
+   height: 35px;
+   
+ }
+ button:hover{background: blanchedalmond;
+
+ }
+ h2{
+   margin-left: 130px;
+ }
+ .t1 { padding : 15px;  }
+ .td1,.td2{
+   height: 150px; 
+   width: 350px;
+   border:2px solid goldenrod  ; 
+
+ }
+ .p3{
+    color: azure;
+    font-family:  sans-serif;
+ }
+ .p2{
+   font-family: fantasy;
+ }
+h3{
+   text-align: center;
+   font-size: 40px;
+   font-weight: lighter;
+   text-decoration:underline;
+   color: goldenrod;
+}
+
+.table{
+   background-image:radial-gradient(#800000,black);
+   
+}
+.lastbox{
+   display: flex;
+   background:black;
+   border-bottom: 10px solid khaki;
+   
+   border-top: 2px solid khaki;
+}
+h4{
+   color: goldenrod;
+   font-size: 25px;
+   font-weight: lighter;
+   text-decoration: underline;
+   text-align: center;
+
+}
+.portfolio{
+   height:400px ;
+   width: 320px;
+
+
+ 
+}
+.name{
+   color: #af7272;
+   font-weight: lighter;
+   font-style:inherit;
+   font-size: medium;
+}
+.read{
+   color: goldenrod;
+   font-size: larger;
+   text-decoration:underline 3px;
+}
+.last{
+   display: flex;
+   background-color: #270202;
+   border-bottom: #250202 solid 40px;
+
+}
+.portfolio{
+   margin-left: 40px;
+
+}
+.gallery{
+   display:inline-flexbox;
+   height: 250px;
+   width: 350px;
+   margin-left:10%;
+   align-content: center;
+}
+.pic{
+   align-self: center;
+   word-spacing: 4px;
+   margin-left: 25px;
+
+}
+.contact{
+   margin-left: 90px;
+   height: 250px;
+   width: 300px;
+}
+h5{
+   color: rgb(223, 152, 152);
+   text-align: center;
+}
+.number{
+   color:  rgb(241, 223, 120);
+   text-align: left;
+   font-size: 15px;
+   font-style:normal;
+}
+footer{
+   color: rgb(187, 144, 34);
+   font-size: larger;
+   margin-left: 30px;
+
+}
+.icon{
+   margin-left: 80%;
+}
+
